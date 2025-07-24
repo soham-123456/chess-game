@@ -64,3 +64,4 @@ Styling: Uses Tailwind CSS classes. Customize in App.css or component files.
 Chess logic powered by `chess.js`
 UI built with React and Tailwind CSS
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6de50d22-38f3-4e05-aa5c-528ee03c8a27" />
